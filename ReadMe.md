@@ -2,11 +2,11 @@
 2. create virtual environment and install flask
 3. open a terminal in the directory where the "task_manager.py" file is saved
 4. run the code using the following command: "python task_manager.py"
-5. open another terminal and run the following command to access the tasks
+5. open another terminal and run the following command to access the tasks:
 
-curl -X GET http://127.0.0.1:5000/tasks
+    curl -X GET http://127.0.0.1:5000/tasks
 
-or open a web browser and go to the following URL: http://127.0.0.1:5000/tasks
+    or open a web browser and go to the following URL: http://127.0.0.1:5000/tasks
 
 6. to create a task run the following commands:
 
