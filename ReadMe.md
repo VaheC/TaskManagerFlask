@@ -1,5 +1,5 @@
 1. download the "task_manager.py" file
-2. create virtual environment and install flask
+2. create a virtual environment. activate it, and install flask in it
 3. open a terminal in the directory where the "task_manager.py" file is saved
 4. run the code using the following command: "python task_manager.py"
 5. open another terminal and run the following command to access the tasks:
